@@ -15,6 +15,7 @@ go build -o my_bot main.go && ./my_bot
 ```
 
 4. Enter the `/start` command for the bot.
+5. Get fun ;)
 
 Documentation
 -------------
