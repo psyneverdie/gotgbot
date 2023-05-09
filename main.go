@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	token := "5557838399:AAH4L3_OfoIqqc3gHa0WAaiYMzHSxwejKy0"
+	token := "YOUR_TELEGRAM_BOT_TOKEN"
 	bot, err := tgbotapi.NewBotAPI(token)
 	if err != nil {
 		log.Fatal(err)
